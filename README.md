@@ -13,7 +13,8 @@ FIFA players analysis
 <img src="https://data2.origin.com/live/content/dam/originx/web/app/games/fifa/fifa-17/screenshots/fifa-17/PogbaDab_pdp_screenhi_3840x2160_en_ww.jpg" alt="alt text" width="600" height="400" style="left">
 
 
-**Data Source** :thumbs_up_sign:
+**Data Source** 
+:alien:
 
 Data was scraped from  [Kaggle](https://www.kaggle.com/zcg2008/fifa-player-analysis-exercise/data) first by getting player profile url set (as stored in PlayerNames.csv) and then scraping the individual pages for their attributes
 
