@@ -16,3 +16,14 @@ FIFA players analysis
 **Data Source**
 
 Data was scraped from  [Kaggle](https://www.kaggle.com/zcg2008/fifa-player-analysis-exercise/data) first by getting player profile url set (as stored in PlayerNames.csv) and then scraping the individual pages for their attributes
+
+---
+
+**Exploring the data**
+
+- Create attribute dependent or overall best teams
+- Create the fastest/slowest teams
+- See which areas of the world provide which attributes (like Africa : Stamina, Pace)
+- See which players are the best at each position
+- See which outfield players can play a better role at some other position
+- See which youngsters have attributes which can be developed
