@@ -23,6 +23,7 @@ Data was scraped from  [Kaggle](https://www.kaggle.com/zcg2008/fifa-player-analy
 ---
 
 **Exploring the data**
+:ghost:
 
 - Create attribute dependent or overall best teams
 - Create the fastest/slowest teams
