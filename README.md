@@ -12,8 +12,6 @@ FIFA players analysis
 - Player images male and female
 - National and club team data
 
-<img src="https://data2.origin.com/live/content/dam/originx/web/app/games/fifa/fifa-17/screenshots/fifa-17/PogbaDab_pdp_screenhi_3840x2160_en_ww.jpg" alt="alt text" width="600" height="400" style="left">
-
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/8164ScXLNCL._SL1500_.jpg" alt="alt text" width="600" height="400" style="left">
 **Data Source** 
