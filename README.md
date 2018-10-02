@@ -13,7 +13,7 @@ FIFA players analysis
 - National and club team data
 
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/8164ScXLNCL._SL1500_.jpg" alt="alt text" width="400" height="600" style="left">
+<img src="https://images-na.ssl-images-amazon.com/images/I/8164ScXLNCL._SL1500_.jpg" alt="alt text" width="400" height="500" style="left">
 **Data Source** 
 :alien:
 
